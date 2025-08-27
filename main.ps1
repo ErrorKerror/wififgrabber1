@@ -1,4 +1,4 @@
-﻿$Token = "$tg"
+$Token = "7560672568:AAG101Gc5sCKApD7ypIxYdlfO0Stf0dKRvk"
 $URL='https://api.telegram.org/bot{0}' -f $Token 
 
 while($chatID.length -eq 0){
